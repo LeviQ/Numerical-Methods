@@ -6,3 +6,7 @@ Numerical Methods written in Python for Univeristy Project
 <img src = "Images/Multi.png">
 
 ## 3. Heron's Algorithm
+## 3. Horner's Algorithm
+## 4. L Matrix Solving Function
+## 5. U Matrix Solving Function
+## 6. Gauss Algorithm
