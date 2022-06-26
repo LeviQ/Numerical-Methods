@@ -14,3 +14,5 @@ Numerical Methods written in Python for Univeristy Project
 <img src = "Images/Upper.PNG">
 
 ## 6. Gauss Algorithm
+## 7. Gauss Jordan Algorithm
+## 8. Gauss Pivot Algorithm
