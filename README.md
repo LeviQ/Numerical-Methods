@@ -16,3 +16,10 @@ Numerical Methods written in Python for Univeristy Project
 ## 6. Gauss Algorithm
 ## 7. Gauss Jordan Algorithm
 ## 8. Gauss Pivot Algorithm
+## 9. Cholesky Decomposition
+## 10. Incisal Method
+## 11. Inverse Matrix
+## 12. LU Doolittle Method
+## 13. Lagrange Method
+## 14. Newton's Method 
+## 15. Bisection Method 
