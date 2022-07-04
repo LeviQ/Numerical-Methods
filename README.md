@@ -1,6 +1,7 @@
 # Numerical-Methods
 Numerical Methods written in Python for Univeristy Project
-The project includes methods and algorithms:
+
+## The project includes methods and algorithms:
 
 ## 1. Matrix Addition
 ## 2. Matrix Multiplication
